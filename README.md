@@ -1,9 +1,11 @@
 # Ecommerce-Analysis-Dashboard-using-Power-BI
 
-Porject Objective:
+Porject Objective:-
+
 Owner of an E-commerce Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
 Project Learnings:
+
 1> Created interactive dashboard to track and analyze online sales data
 
 2> Used complex parameters to drill down in worksheet and customization using filters and slicers.
